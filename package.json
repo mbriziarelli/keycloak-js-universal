@@ -1,0 +1,8 @@
+{
+  "name": "keycloak-js-universal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mbriziarelli/keycloak-js-universal.git",
+  "author": "Maxime Briziarelli <maxime.briziarelli@gmail.com>",
+  "license": "MIT"
+}
